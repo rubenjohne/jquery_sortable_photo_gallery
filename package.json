@@ -1,9 +1,10 @@
 {
-	"name": "jquery-sortable-photo-gallery",
+	"name": "sortable-photo-gallery",
 	"version": "0.0.1",
 	"dependencies": {
 		"grunt": "0.4.1",
 		"grunt-contrib-sass": "0.4.1",
-		"grunt-contrib-coffee": "0.7.0"
+		"grunt-contrib-coffee": "0.7.0",
+		"grunt-contrib-watch": "0.5.1"
 	}
 }
